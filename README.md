@@ -16,4 +16,5 @@ Oahu Island weather data analysis conducted to support the decision of opening a
     o	Analyze key weather data for all months of the year (individually) to verify that weather remains pleasant in every month, and/or to        identify any months with significant difference in rainfall and temperatures.
     o	Investigate data sources for tourism peak seasons, and correlate to weather patterns.  Airline, Hotels, Restaurants.  
     o	Airline data provides origin data, perhaps there is a correlation between weather at origin with when certain regions produce             tourists to Hawaii
+    
   •	Findings are shared within climate_analysis.ipynb
